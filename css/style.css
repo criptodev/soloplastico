@@ -654,50 +654,10 @@ p.about-p-2 {
 
 /*-- //About --*/
 
-
-
-/*-- Skills --*/
-
-.skills {
+/*-- Services --*/
+#services {
 	background-color: #f5f5f5;
 }
-
-.skills h4 {
-	font-size: 25px;
-	text-align: left;
-	font-weight: 500;
-	margin: 10px 0 30px;
-}
-
-.skills-bars h5 {
-	text-align: left;
-	margin-bottom: 5px;
-}
-
-.skills .progress {
-	position: relative;
-	background-color: #C7C7C7;
-	border-radius: 30px;
-}
-
-.progress.active .progress-bar, .progress-bar.active {
-	-webkit-animation: progress-bar-stripes 1s linear infinite;
-	-o-animation: progress-bar-stripes 1s linear infinite;
-	animation: progress-bar-stripes 1s linear infinite;
-}
-
-.skills .progress-bar {
-	background-color: #2196F3;
-	color: #FFF;
-	text-align: left;
-	padding-left: 275px;
-}
-
-/*-- //Skills --*/
-
-
-
-/*-- Services --*/
 
 .services-item {
 	background: #FFF;
@@ -748,7 +708,46 @@ p.about-p-2 {
 
 /*-- //Services --*/
 
+/*-- Skills --*/
 
+.skills {
+	background-color: #fff;
+}
+
+.skills h4 {
+	font-size: 25px;
+	text-align: center;
+	font-weight: 500;
+	margin: 10px 0 30px;
+}
+
+.skills-bars h5 {
+	text-align: center;
+	font-size: 15px;
+	margin-bottom: 20px;
+	color: #000;
+}
+
+.skills .progress {
+	position: relative;
+	background-color: #C7C7C7;
+	border-radius: 30px;
+}
+
+.progress.active .progress-bar, .progress-bar.active {
+	-webkit-animation: progress-bar-stripes 1s linear infinite;
+	-o-animation: progress-bar-stripes 1s linear infinite;
+	animation: progress-bar-stripes 1s linear infinite;
+}
+
+.skills .progress-bar {
+	background-color: #2196F3;
+	color: #FFF;
+	text-align: left;
+	padding-left: 275px;
+}
+
+/*-- //Skills --*/
 
 /*-- Portfolio --*/
 
