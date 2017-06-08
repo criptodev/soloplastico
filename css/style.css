@@ -629,7 +629,7 @@ p.about-p-1, p.about-p-2 {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	font-weight: 400;
-	text-align: left;
+	text-align: justify;
 	width: 100%;
 	margin-bottom: 30px;
 }
@@ -726,6 +726,12 @@ p.about-p-2 {
 	font-size: 15px;
 	margin-bottom: 20px;
 	color: #000;
+}
+
+.skills-bars p {
+	text-align: left;
+	font-size: 15px;
+	margin-bottom: 20px;
 }
 
 .skills .progress {
@@ -1428,7 +1434,7 @@ ul.social li a.googleplus:hover {
 		padding: 50px 0;
 	}
 	.about-info h3 {
-		text-align: left;
+		text-align: justify;
 		margin-bottom: 30px;
 	}
 	p.about-p-1, p.about-p-2 {
