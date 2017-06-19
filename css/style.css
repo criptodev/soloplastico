@@ -722,14 +722,14 @@ p.about-p-2 {
 }
 
 .skills-bars h5 {
-	text-align: center;
+	text-align: left;
 	font-size: 15px;
 	margin-bottom: 20px;
 	color: #000;
 }
 
 .skills-bars p {
-	text-align: left;
+	text-align: justify;
 	font-size: 15px;
 	margin-bottom: 20px;
 }
