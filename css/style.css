@@ -1362,7 +1362,13 @@ ul.social li a.googleplus:hover {
 	}
 }
 
+
 @media screen and (max-width:1280px) {
+
+	.gmap{
+		width: 459px;
+		height: 391px;
+	}
 	.callbacks_tabs {
 		left: 43%;
 	}
@@ -1399,6 +1405,10 @@ ul.social li a.googleplus:hover {
 }
 
 @media screen and (max-width:1024px) {
+	.gmap{
+		width: 459px;
+		height: 391px;
+	}
 	.logo {
 		width: 50%;
 	}
@@ -1496,6 +1506,10 @@ ul.social li a.googleplus:hover {
 }
 
 @media screen and (max-width:991px) {
+	.gmap{
+		width: 432px;
+		height: 368px;
+	}
 	.top-bar {
 		padding: 20px 0;
 	}
@@ -1561,6 +1575,10 @@ ul.social li a.googleplus:hover {
 }
 
 @media screen and (max-width:900px) {
+	.gmap{
+		width: 378px;
+		height: 322px;
+	}
 	.slider-info p {
 		width: 55%;
 		font-size: 14px;
@@ -1698,6 +1716,10 @@ ul.social li a.googleplus:hover {
 }
 
 @media screen and (max-width:768px) {
+	.gmap{
+		width: 351px;
+		height: 299px;
+	}
 	.navbar-brand {
 		margin: .5em 0;
 	}
@@ -1744,6 +1766,10 @@ ul.social li a.googleplus:hover {
 }
 
 @media screen and (max-width:767px) {
+	.gmap{
+		width: 324px;
+		height: 276px;
+	}
 	.navbar-default .navbar-toggle {
 		border-color: #212121;
 		margin: 10px;
@@ -1794,6 +1820,10 @@ ul.social li a.googleplus:hover {
 }
 
 @media screen and (max-width:736px) {
+	.gmap{
+		width: 270px;
+		height: 230px;
+	}
 	.logo {
 		width: 40%;
 	}
@@ -1927,6 +1957,10 @@ ul.social li a.googleplus:hover {
 }
 
 @media screen and (max-width:640px) {
+	.gmap{
+		width: 216px;
+		height: 184px;
+	}
 	.logo a {
 		font-size: 25px;
 	}
@@ -1981,6 +2015,10 @@ ul.social li a.googleplus:hover {
 }
 
 @media screen and (max-width:568px) {
+	.gmap{
+		width: 216px;
+		height: 184px;
+	}
 	.logo {
 		width: 37%;
 	}
@@ -2109,6 +2147,10 @@ ul.social li a.googleplus:hover {
 }
 
 @media screen and (max-width:480px) {
+	.gmap{
+		width: 162px;
+		height: 300px;
+	}
 	.top-bar {
 		padding: 5px 0;
 	}
@@ -2175,6 +2217,10 @@ ul.social li a.googleplus:hover {
 }
 
 @media screen and (max-width:414px) {
+	.gmap{
+		width: 216px;
+		height: 184px;
+	}
 	.callbacks_nav {
 		display: none;
 	}
@@ -2418,7 +2464,6 @@ ul.social li a.googleplus:hover {
 		margin: 130px 0 0 0;
 	}
 }
-
 
 
 /*-- //Responsive-Code --*/
